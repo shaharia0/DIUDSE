@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">DIUDSE</string>
+    <string name="department_of_software_engineering">Department of Software Engineering</string>
+    <string name="about_diu">about diu</string>
+    <string name="facilities">Facilities</string>
+    <string name="faculty_member">Faculty Members</string>
+    <string name="about_swe">About SWE</string>
+    <string name="admission_info">Admission Info</string>
+    <string name="swedetails">The department of Software Engineering offers the program of B.Sc. in Software Engineering.
+        \n \n
+        The program is designed to produce skilled manpower for global IT market in order to satisfy the growing demands of software professionals throughout the world.
+        It provides the students an opportunity to gain a vast knowledge about the overall Software Engineering process as well as Computer Programming,
+        Computer Systems Engineering, Telecommunication Engineering and Electronics Engineering.
+        \n \n
+        The central goal is to create knowledgeable, efficient and skilled software engineering graduates
+        so that they are able to make themselves competent to work on not only with the Software Industries in home country
+        but also with any giant technological organization of the world.
+    </string>
+    <string name="diupc">diupc</string>
+    <string name="aboutdiu">  Daffodil International University (DIU) is recognized in independent government assessments as one of top graded universities in Bangladesh.
+        \n \n
+        The university has been founded by Daffodil Group with the approval of the Ministry of Education under the Private University Act of 1992
+        and its amendment in 1998 and Daffodil International University came into being on 24th January 2002,
+        the University today combines impressive modern facilities
+        and a dynamic approach to teaching and research with its proud heritage of service and achievement
+
+    </string>
+    <string name="laboratory_facilities">Laboratory facilities</string>
+    <string name="research_facilities">Research Facilities</string>
+    <string name="blood_donation_group">Blood Donation Group</string>
+    <string name="sofolab">Sofolab</string>
+    <string name="for_admission_information">For Admission Information</string>
+    <string name="click_here">Click Here </string>
+    <string name="teacher_name">teacher name</string>
+    <string-array name="faculty_members">
+        <item> Dr. Touhid Bhuiyan </item>
+        <item> Dr. Shaikh Muhammad Allayear </item>
+        <item> Mr. S A M Matiur Rahman </item>
+        <item> Mr. Md. Khaled Sohel </item>
+        <item> Dr. Md. Asraf Ali  </item>
+        <item> Dr. Imran Mahmud   </item>
+        <item> Kaushik Sarker     </item>
+        <item> Nazia Nishat       </item>
+        <item> Afsana Begum       </item>
+        <item> Ms. Syeda Sumbul Hossain </item>
+        <item> Mr. Md. Anwar Hossen </item>
+        <item> Mr. Khalid Been Badruzzaman Biplob</item>
+        <item> Ms. Tapushe Rabaya Toma </item>
+        <item> Mr. Md. Shohel Arman </item>
+        <item> Mr. Khandker M. Qaiduzzaman </item>
+
+
+
+
+
+    </string-array>
+
+</resources>

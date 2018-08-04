@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Facilities">
+
+    <Button
+        android:id="@+id/labbtnid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/_light_green"
+        android:text="@string/laboratory_facilities" />
+
+    <Button
+        android:id="@+id/researchbtnid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/light_blue"
+        android:text="@string/research_facilities" />
+
+    <Button
+        android:id="@+id/bloodbtnid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/azure"
+        android:layout_weight="1"
+        android:text="@string/blood_donation_group" />
+
+    <Button
+        android:id="@+id/sofolabbtnid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/cadet_blue"
+        android:text="@string/sofolab" />
+
+</LinearLayout>
